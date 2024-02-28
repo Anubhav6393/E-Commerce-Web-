@@ -1,2 +1,2 @@
 # E-Commerce-Web-
-A project Repo contains a E-Commerce Web
+This Repo contains an E-Commerce Web
