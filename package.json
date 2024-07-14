@@ -1,0 +1,12 @@
+{
+  "name": "e-commerce-web-",
+  "version": "1.0.0",
+  "description": "A project Repo contains a E-Commerce Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
